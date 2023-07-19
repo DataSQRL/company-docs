@@ -1,6 +1,6 @@
 # Website
 
-This website contains the documentation for DataSQRL.
+This website is for DataSQRL company information and hiring.
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
