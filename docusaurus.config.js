@@ -15,7 +15,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'datasqrl', // Usually your GitHub org/user name.
-  projectName: 'datasqrl.github.io', // Usually your repo name.
+  projectName: 'company-docs', // Usually your repo name.
 
   presets: [
     [
