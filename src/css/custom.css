@@ -83,6 +83,10 @@ img[alt$="<|"] {
   }
 }
 
+.hidden {
+  display: none !important;
+}
+
 .tabs--hero .tabs__item {
     border-bottom-width: 0px;
 }

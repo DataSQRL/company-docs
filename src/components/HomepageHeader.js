@@ -25,7 +25,8 @@ export default function HomepageHeader({title, tagLine, text, buttonLink, button
     <header className={clsx('hero hero--secondary', styles.heroBanner)}>
       <div className="container">
       <div className="row">
-        <div className={clsx('col col--8', styles.col)}>
+        <div className={clsx('col col--2', styles.col)}></div>
+        <div className={clsx('col col--6', styles.col)}>
             <h1 className="hero__title">{tagLine}</h1>
             <p className="hero__subtitle">
                 {text}

@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'DataSQRL',
   tagline: 'Build Data Services In Minutes',
-  url: 'https://www.datasqrl.com',
+  url: 'https://you.datasqrl.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   trailingSlash: true,
@@ -23,16 +23,11 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: undefined,
           // Please change this to your repo.
-          editUrl: 'https://github.com/DataSQRL/datasqrl.github.io/edit/main/',
+          editUrl: 'https://github.com/DataSQRL/company-docs/edit/main/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/DataSQRL/datasqrl.github.io/edit/main/',
-        },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -59,23 +54,27 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'getting-started/overview',
+            docId: 'mission/index',
             position: 'left',
-            label: 'Learn',
+            label: 'Mission & Vision',
           },
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'culture/index',
             position: 'left',
-            label: 'Docs',
+            label: 'Culture',
           },
-          {to: '/community', label: 'Community', position: 'left'},
-          {to: '/services', label: 'Services', position: 'left'},
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/DataSQRL/sqrl',
-            label: 'GitHub',
-            position: 'right',
+            type: 'doc',
+            docId: 'process/index',
+            position: 'left',
+            label: 'How We Work',
+          },
+          {
+            type: 'doc',
+            docId: 'intro/index',
+            position: 'left',
+            label: 'Handbook',
           },
         ],
       },
@@ -83,44 +82,23 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Information',
             items: [
               {
-                label: 'Getting Started',
-                to: '/docs/getting-started/overview',
+                label: 'Mission & Vision',
+                to: '/docs/mission',
               },
               {
-                label: 'Documentation Overview',
+                label: 'Culture',
+                to: '/docs/culture',
+              },
+              {
+                label: 'How We Work',
+                to: '/docs/process',
+              },
+              {
+                label: 'Handbook',
                 to: '/docs/intro',
-              },
-              {
-                label: 'Reference Docs',
-                to: '/docs/reference/overview',
-              },
-              {
-                label: 'DataSQRL Process',
-                to: '/docs/process/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/datasqrl',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discord.gg/49AnhVY2w9',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/DataSQRL/sqrl',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/DataSQRL',
               },
             ],
           },
@@ -128,20 +106,16 @@ const config = {
             title: 'DataSQRL',
             items: [
               {
-                label: 'About',
-                to: '/about',
-              },
-              {
-                label: 'Services',
-                to: '/services',
-              },
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
                 label: 'Contact Us',
                 to: '/contact',
+              },
+              {
+                label: 'Main Webpage',
+                to: 'https://www.datasqrl.com',
+              },
+              {
+                label: 'About',
+                to: 'https://www.datasqrl.com/about',
               },
             ],
           },

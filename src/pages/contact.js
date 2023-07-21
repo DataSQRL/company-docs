@@ -7,11 +7,11 @@ import HomepageHeader from '../components/HomepageHeader';
 
 const header =  {
                    title: 'Contact DataSQRL',
-                   tagLine: 'Get in Touch',
+                   tagLine: "Let's Connect",
                    text: (
                      <>
-                We help developers and organizations build data services that deliver value. <br />
-                Use the form below to contact us and we look forward to building with you.
+                    Use the form below to ask us any question about DataSQRL
+                       or reach out to connect.
                      </>
                    ),
                    LogoSvg: require('../../static/img/generic/undraw_contact.svg').default,
@@ -53,7 +53,7 @@ function ContactForm() {
         <input type="text" id="name" name="name" required="" value={name} onChange={(e) => setName(e.target.value)} />
         <label for="email">Your Email:</label>
         <input type="email" id="email" name="email" required="" value={email} onChange={(e) => setEmail(e.target.value)} />
-        <label for="message">How Can We Help You?</label>
+        <label for="message">What's your Question?</label>
         <textarea id="message" name="message" required="" value={message} onChange={(e) => setMessage(e.target.value)} />
         { feedback ? <ContactMessage message={feedback} /> : null }
         <button type="submit">Contact Us</button>
@@ -84,10 +84,8 @@ export default function Contact() {
               <div className="col col--6">
                 <h2 className="margin-bottom--md">Contact Form</h2>
                 <p>
-                Want to work with us, get a job at DataSQRL, or have a question about the company, then use this
-                form to get in touch with us. <br />
-                If you have a coding question, feature request, or bug report, please check out
-                the <Link to="/community">community page</Link> to direct you to the right place.
+                Don't hesitate to use the form below to ask us any questions about DataSQRL.<br />
+                  We are excited to hear from you.
                 </p>
                 <p>
                 Enter your name, email, and message in the form below and we will get back to you shortly.
