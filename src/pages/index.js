@@ -32,9 +32,10 @@ const WhyDataSQRLList = [
     image: '/img/generic/undraw_launch.svg',
     description: (
       <>
-        DataSQRL allows you to focus on your data logic because it handles all the annoying
-        parts of implementing streaming applications that make you want to choke on your keyboard:
-        data plumbing, schema management, error handling, data serving, API generation, and so on.
+        Our vision is to make building with data streams as easy as creating a
+        spreadsheet. Data streams are the lifeblood of the modern economy. Our mission
+        is to enable people to build with data so they can participate in the data
+        economy.
       </>
     ),
     link: '/docs/mission',
@@ -45,9 +46,9 @@ const WhyDataSQRLList = [
     image: '/img/generic/undraw_community.svg',
     description: (
       <>
-        Express your data logic, transformations, and analytics with the SQL you already know.
-        DataSQRL allows you to focus on the "what" and worry less about the "how". Import your
-        functions when SQL is not enough - DataSQRL makes custom code integration easy.
+        Our culture is build around the principles of belonging, resourcefulness, and
+        responsibility. To us, culture is not just fancy words. Each of us actively
+        participates in creating a culture we want to be a part of.
       </>
     ),
     link: '/docs/culture',
@@ -58,9 +59,11 @@ const WhyDataSQRLList = [
     image: '/img/generic/undraw_partner.svg',
     description: (
       <>
-        DataSQRL builds efficient event-driven microservices that optimize data processing,
-        partitioning, index selection, view materialization, denormalization, and query execution.
-        There actually is some neat technology behind this buzzword bingo.
+        DataSQRL is a distributed company and we built processes to make that work
+        well. It's how we work together, get stuff done, and have a good time doing it.
+        Every team member has the autonomy they want and the structure they need
+        to work effectively.
+
       </>
     ),
     link: '/docs/process',
@@ -84,11 +87,25 @@ export default function Home() {
                 <p>
                   This is our internal website where you can learn more about DataSQRL the company, our <Link to="/docs/mission">mission & vision</Link>,
                   the <Link to="/docs/culture">culture at DataSQRL</Link>, and <Link to="/docs/process">how we work</Link>.
+                  <br />
+                  Whether you just joined DataSQRL, have worked at DataSQRL for a while, or just want to learn more about
+                  DataSQRL as a company, you've come to the right place.
                 </p>
                 <p>
-                  Whether you just joined DataSQRL, have worked at DataSQRL for a while, or just want to learn more about
-                  DataSQRL as a company, this is the place where you find the information you are looking for. <br />
-                  And if you cannot find it, please don't hesitate to <Link to="/contact">contact us</Link>.
+                  Why read a bunch of words about boring company internals? We started DataSQRL to build a company that empowers you,
+                  helps you grow, and is worth your while. A place where we build things together that none of us could have dreamt of
+                  accomplishing alone. An environment where you feel safe to challenge yourself.<br />
+                  But at the same time, we not only respect that working hard is just one part of your life, we actively
+                  support each other to disconnect and live our full lives.
+                </p>
+                <p>
+                  As a result, we are doing a lot of things differently and are pretty obsessed with how we work together.
+                  Not just to put some fancy words on a page or score PR brownie-points. We do it because how we spend
+                  our days is how we spend our lives. And that's quite important.
+                </p>
+                <p>
+                  So, hopefully this page gives you a good sense for how we work. I promise you: no corporate bla bla.
+                  And if you have any questions or cannot find what you are looking for, please <Link to="/contact">ask us</Link>.
                 </p>
               </div>
               <div className="col col--3"></div>
