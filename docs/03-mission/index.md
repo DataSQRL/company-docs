@@ -18,10 +18,10 @@ Our mission is to empower everybody to participate in and benefit from the data 
 
 ## Vision
 
-**Our vision is to build powerful technology and simple tooling that makes building sophisticated data products and data services as easy as creating a spreadsheet.**
+**Our vision is to build powerful open-source technology and simple tooling that makes building sophisticated data products and data services as easy as creating a spreadsheet.**
 
 Individuals will be able to combine data streams and data sets into products and services that deliver value through advanced ML algorithms and domain-specific analysis. What currently takes a group of technology experts months to accomplish, a single person can do in an afternoon with DataSQRL's products.
 
-By giving people the tools to build with data, we lay the groundwork for an explosion of unique data products and a diversity in data algorithms that will overcome the algorithmic monoculture we are currently trapped in. And we unleash unprecedented growth in the data economy. 
+By giving people the tools to build with data and nurturing an open-source community, we lay the groundwork for an explosion of unique data products and a diversity in data algorithms that will overcome the algorithmic monoculture we are currently trapped in. And we unleash unprecedented growth in the data economy. 
 
 In addition, our vision is to increase data literacy - the ability to understand and build with data - through education, technology, and community support. Data literacy, like reading and writing, will become a core skill that's required to participate in society and the economy. DataSQRL advances data literacy and supports data literacy efforts that prepare our kids for a world that runs on data.
