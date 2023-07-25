@@ -1,6 +1,8 @@
 # Resourcefulness
 
-Resourcefulness describes how we approach our work. Resourcefulness means finding quick and clever solutions to problems.
+**Resourcefulness describes how we approach our work. Resourcefulness means finding quick and clever solutions to problems without sacrificing quality.**
+
+<img src="/img/generic/undraw_specs.svg" alt="Resourcefulness >" width="40%"/>
 
 A quick solution is one that minimizes the time until we get feedback from the customer whose problem the solution is addressing. Customer doesn’t necessarily mean a paying customer of our company in this context. It means the recipient of our solution and for whom the solution is supposed to generate value. It is important to get feedback quickly because only the customer can tell us if our solution is valuable to them. We can ask them what they need, do a great deal of planning, and think really hard about the problem to come up with what we believe to be a great solution. However, we won’t know until we get feedback from the customer. This is critically important and easy to get wrong. It is easy to convince ourselves that we understand the problem and customer so well that our solution certainly will be just what they need. And then we retreat into our offices to build the perfect solution for them only to discover that we missed the mark once we reemerge.
 

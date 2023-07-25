@@ -6,7 +6,7 @@ sidebar_label: "Mission & Vision"
 
 **Our mission is to empower people to build with data.**
 
-<img src="/img/generic/undraw_launch.svg" alt="Nut Shop Tutorial >" width="40%"/>
+<img src="/img/generic/undraw_launch.svg" alt="DataSQRL Mission & Vision >" width="40%"/>
 
 Data is the lifeblood of the modern economy. Turning data into products and services is an increasingly important means of value creation. Our mission is to empower everybody to participate in the modern data economy by enabling them to create valuable data products and data services.
 

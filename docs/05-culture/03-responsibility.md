@@ -1,6 +1,8 @@
 # Responsibility
 
-We assume responsibility in everything we do. Assuming responsibility means that we have a sense of ownership, are committed, and can be held accountable.
+**We assume responsibility in everything we do. Assuming responsibility means that we have a sense of ownership, are committed, and can be held accountable.**
+
+<img src="/img/generic/undraw_data.svg" alt="Responsibility >" width="40%"/>
 
 To have a sense of ownership, we need to know exactly what we are signing up for and what we are supposed to do. We try to define our area of ownership unambiguously so that we can communicate this to others to avoid misunderstandings and have clarity for ourselves. But ownership means more than knowing the boundaries of your work. It means that we drive that work to completion and take pride in the work. It means that we understand that this work is a reflection of ourselves and that we happily sign our name under it with a sense of satisfaction.
 

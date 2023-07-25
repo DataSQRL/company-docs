@@ -6,6 +6,8 @@ sidebar_label: "Your Intelligences"
 
 DataSQRL is us. Not just us individuals but us as a collective, emergent force of change. We can go much, much further together because we form an integrated system with purpose.
 
+<img src="/img/generic/undraw_genius.svg" alt="Your genius at DataSQRL >" width="40%"/>
+
 To make this happen, we all bring our three intelligences to the table and grow them over time: our emotional, social, and cognitive intelligences. In combination and in concert with others, these intelligences are the lifeblood of our company.
 
 ## Emotional Intelligence

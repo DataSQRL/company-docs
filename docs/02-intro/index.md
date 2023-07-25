@@ -8,6 +8,8 @@ sidebar_label: "Introduction"
 
 This book introduces you to the essential elements that define our culture at DataSQRL. Please read this book to collaborate effectively, produce valuable work, and grow your potential within our unique company. And to do so with presence, a feeling of accomplishment, and a fulfilling sense of purpose. I promise that every minute spent reading this book will be worth your time.
 
+<img src="/img/generic/welcome.svg" alt="Welcome to DataSQRL >" width="40%"/>
+
 Yes, most company handbooks and employee manuals are boring and uninformative. This book is different. This book lays out all the key ingredients that define our special company culture. Some of those may be familiar to you. But a lot of them will be new to you or different from previous places you have worked.
 
 We care deeply about how we work together - not just the results we produce. How we work together is explained in this book. The book lays out the principles that build the foundation we all stand on to produce amazing work as one team.

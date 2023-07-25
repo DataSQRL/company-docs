@@ -14,6 +14,8 @@ The more important and consequential the decision, the more we strive to find th
 
 ## Why is Culture Important? (The long version)
 
+<img src="/img/generic/undraw_community.svg" alt="DataSQRL Culture >" width="40%"/>
+
 Our [mission and vision](/docs/mission) defines what we work on as a company. Our culture defines how we work. How we work is equally important to our success. And since it shapes the day-to-day reality of working at DataSQRL it is more important to our sense of fulfillment. That’s why we take culture very seriously. Annie Dillard nailed it when she wrote “How we spend our days is, of course, how we spend our lives”. You will spend a lot of your waking hours working. That’s your life. We want to make that worth your while. That’s why we care so much about culture.
 
 A good company culture is like oxygen. It is vital, all around us, and easy to take for granted until it goes missing. It is our shared responsibility to create the best company culture we can imagine. Each and every one of us contributes to our culture.

@@ -4,6 +4,8 @@ sidebar_label: "You"
 
 # You
 
+<img src="/img/generic/undraw_build_home.svg" alt="You @ DataSQRL >" width="40%"/>
+
 It all starts with YOU. You are important to this company - to us. And you share a responsibility to fill this company with life, advance its purpose, and make it successful.
 
 This company is made of people. You are one of them. Without people, there is no company. You are driving this company to achieve its purpose. We all are. And if we do that well together, we have a chance to make a tiny dent in the universe by building something together that neither one of us could have dreamed of achieving alone.

@@ -2,15 +2,17 @@
 
 Belonging is foundational. We belong at DataSQRL and we want others to belong. A sense of belonging is necessary in order to tap into our full potential. Even a minor doubt of not belonging zaps energy and causes distress. That’s why we take belonging so seriously. We always start with the question of “does everybody feel like they belong?” and then build amazing things from there.
 
+<img src="/img/generic/squirrel_love.svg" alt="You belong at DataSQRL >" width="30%"/>
+
 Creating a comprehensive sense of belonging is no easy task. It requires all of our persistent efforts and a great deal of mindfulness in our daily interactions. We ask you to put in that effort because it is worth it. For yourself and everybody around you. “Belonging” might sound like a fluffy, feel-good term but it is far from it. Belonging is critical to team performance, our shared sense of purpose, and individual motivation. Research regularly surfaces news ways in which belonging shapes business outcomes. If anything, we still underestimate its importance.
 
-Belongingness has the following elements:
+**Belongingness has the following elements:**
 
-* An inclusive, welcoming culture that embraces diversity.
-* Psychological safety
-* A sense of purpose and feeling needed
-* Individual and team actualization
-* Shared awareness 
+* **An inclusive, welcoming culture that embraces diversity**
+* **Psychological safety**
+* **A sense of purpose and feeling needed**
+* **Individual and team actualization**
+* **Shared awareness** 
 
 ## Inclusion and Diversity
 
@@ -26,6 +28,8 @@ Diversity encompasses actions we take, not just something we talk about. We see 
 
 We are up against some powerful forces: homophily and assimilation.
 
+<img src="/img/generic/undraw_experts.svg" alt="Diversity >" width="40%"/>
+
 Homophily describes the phenomenon that humans feel more comfortable around people that are like them. We all feel that way. It doesn’t mean that we are bad people. We have to be mindful of this feeling that we acquired to protect us thousands of years ago when we lived in small, isolated tribes. Today, those dangers no longer exist and this feeling can stand in the way of embracing concepts, ideas, or behaviors that are foreign to us.
 
 Assimilation describes the urge to mirror the thoughts, behaviors, and actions of groups that we want to fit into. I remember the ridiculous haircut I got as a teenager to fit in with the cool kids. That’s assimilation. Thousands of years ago, assimilation was a skill critical to survival because being excluded from your tribe was lethal. That’s no longer true today, but standing out still feels very scary and that feeling holds us back from showing up as our whole selves.
@@ -34,12 +38,16 @@ Homophily and assimilation lead to exclusion, groupthink, and echo chambers. The
 
 This is hard. We are going to screw it up. People will get hurt. We have to accept this inevitable truth because we need resilience to make this work. We have to try, try, and try again. We have to push ourselves out of our comfort zone and make ourselves vulnerable. We have to actively de-escalate when we feel hurt, leave the moral high ground to bring others along, and listen when we want to shout.
 
+
+
 But it will be worth it. It will be worth it because it allows us to show up to work every single day, knowing that we can bring our whole selves, allow every part of ourselves to shine, and witness everybody else doing the same, knowing that our contributions are making this wonderful symphony happen. We can sit back and enjoy seeing our unique contributions merge with those of others into something bigger and more beautiful than the sum of its parts. And then you get to close your laptop to enjoy the rest of your day with a sense of fulfillment and accomplishment.
 
 ## Psychological Safety
 
 Psychological safety means feeling safe to take risks and be vulnerable in front of others. This concept is closely related to inclusion with a focus on risk-taking. To succeed we have to take risks. If we follow the well-trodden path and make only safe choices we won’t be able to find that product, process, marketing slogan, hire, etc that will set us apart. Taking well calculated risks is vital to breakthroughs. But when you take a risk, you may fail. Otherwise it wouldn’t be a risk. And failing sucks. It sucks less when others support you in failure and help you get back on your feet with encouragement and empathy. It sucks unbearably when you get punished for such failures. When you punish failures, people will stop taking risks. In addition, you set the unrealistic expectation that one should be able to control an outcome which is impossible in an unpredictable world that changes frequently.
 That’s why psychological safety is important. We recognize that failure is inevitable and build emotional safety to catch people when they fail. We encourage thoughtful and measured risk-taking. Whether that’s a risky feature to differentiate a product, a risky proposal to win a customer, or an emotional risk to improve team dynamics. Taking these risks is important to us as a company.
+
+<img src="/img/blog/undraw_collaboration.svg" alt="Collaboration >" width="40%"/>
 
 Psychological safety allows us to play and be playful. "Play” means taking risks while feeling safe. Play is one of the best ways to learn, grow, and create. We associate play with children but the same concepts apply to adults.
 
@@ -59,6 +67,8 @@ A key part of belonging is knowing where we belong and what purpose our role ser
 
 You have come to work for DataSQRL because you believe in our vision, are excited about our mission and identify with our culture. We are excited and feel honored that you chose to join us on this journey. At the same time, we recognize that you are on a journey of your own and that DataSQRL is part of your journey.
 
+<img src="/img/index/undraw_contribute_sqrl.svg" alt="Working together >" width="40%"/>
+
 While it is our shared responsibility to do our best to advance DataSQRL on its journey, we also feel responsibility to help you along yours. We want you to grow and actualize along the way.
 
 At DataSQRL you are not a cog in some larger machine. DataSQRL is organized as a network of individuals who connect with each other to form teams or working groups for a particular purpose. We believe that the best work comes out of the connections that we form with others.
@@ -74,6 +84,8 @@ Keep in mind that such collaborations require an ability and willingness to do s
 Another aspect to actualization is that we eliminate crutch job and low-value tasks. Those are jobs or tasks that we do in order to smooth over a deficiency in process, lack of automation, or because we lack a measure of value. Nothing destroys the sense of actualization faster than being stuck doing such a job or task. We make it a priority to eliminate those as quickly as possible.
 
 ## Shared Awareness
+
+<img src="/img/index/undraw_questions_sqrl.svg" alt="Shared Awareness >" width="40%"/>
 
 As a company we need to build a shared reality so that we can act in unison. If we have different understandings of the market, our customers, our products, our priorities, etc we will act in dissonance, which produces ineffective results. Being on the same page is absolutely critical to ensure that our work effort translates into impactful results. This means we are purposeful and deliberate in our communication to make sure everyone is on the same page.
 

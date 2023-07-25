@@ -4,6 +4,8 @@ sidebar_label: "You belong"
 
 # You Belong
 
+<img src="/img/generic/squirrel_love.svg" alt="You belong at DataSQRL >" width="30%"/>
+
 You belong here. We want you to internalize this truth and to feel it. Belonging means that you feel comfortable taking up space, that you feel seen, and that you feel your contributions are valued.
 
 Belonging is foundational. As humans, we need to belong. To achieve your potential you need to feel like you belong. If you are trying to fit in or modulate your character in an effort to be someone else, you are wasting valuable energy and creating undue hardship for yourself. That’s why it is important that you show up as yourself and feel confident that you will be accepted as yourself.
