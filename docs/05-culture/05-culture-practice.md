@@ -15,8 +15,8 @@ Here are some examples and suggestions for how to live our culture.
 
 **Resourcefulness:**
 * We invite ideas - even the crazy ones - to explore the space of possibilities. We evaluate and judge ideas, not the people behind them.
-* We prefer lean execution and getting things done over complete or comprehensive solutions.
-* We don't sacrifice quality or cut corners but seek to find clever solutions that accomplish what is needed.
+* We prefer lean execution and getting things done over complete or comprehensive solutions to get feedback quickly and iterate.
+* We balance quality with efficient execution and own the tradeoff.
 
 **Responsibility:**
 * We clearly articulate and write down our plans and commitments and share those freely with the company.
